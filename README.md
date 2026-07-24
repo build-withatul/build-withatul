@@ -54,6 +54,17 @@ I'm passionate about building scalable cloud infrastructure and automating deplo
 
 ---
 
+## 📂 Featured Projects
+
+- Kubernetes Cluster using kubeadm
+- Dockerized Python Applications
+- Terraform AWS Infrastructure
+- Jenkins CI/CD Pipelines
+- Linux Administration Labs
+- AWS Hands-on Projects
+
+---
+
 ## 📫 Connect with Me
 
 LinkedIn:
