@@ -44,7 +44,7 @@ I'm passionate about building scalable cloud infrastructure and automating deplo
 
 ---
 
-## 📚 Currently Learning
+## 📚 
 
 - Kubernetes Production
 - Helm
