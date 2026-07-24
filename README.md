@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Atul Limbale
 
-<!--
-**build-withatul/build-withatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | AWS Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building scalable cloud infrastructure and automating deployments using modern DevOps tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Learning Kubernetes, Terraform and Jenkins
+- ☁️ AWS Cloud Enthusiast
+- 🐳 Docker & Containerization
+- ⚙️ CI/CD Automation
+- 🐧 Linux Administration
+- 📍 India
+
+---
+
+## 🛠 Skills
+
+### Cloud
+- AWS EC2
+- IAM
+- VPC
+- S3
+- Route53
+- CloudWatch
+
+### DevOps
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Terraform
+- Ansible
+
+### Operating System
+- Linux (Ubuntu)
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Kubernetes Production
+- Helm
+- ArgoCD
+- Monitoring
+- Prometheus
+- Grafana
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+Email:
+(atullimbale11@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
