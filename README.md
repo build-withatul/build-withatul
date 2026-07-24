@@ -48,7 +48,6 @@ I'm passionate about building scalable cloud infrastructure and automating deplo
 
 - Kubernetes Production
 - Helm
-- ArgoCD
 - Monitoring
 - Prometheus
 - Grafana
